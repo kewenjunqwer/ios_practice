@@ -188,5 +188,17 @@
             "name":"天下",
             "singer":"张杰"
         }
+    ],
+    "collectSings":[
+        {
+            "singId":"1",
+            "userId":"1"
+        }
+    ],
+    "likedSings":[
+        {
+            "singId":"1",
+            "userId":"1"
+        }
     ]
   }
